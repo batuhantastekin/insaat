@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Calculator, FileText, Users, Settings, LogOut, User } from 'lucide-react';
+import { Calculator, FileText, Users, Settings, LogOut, User, TrendingUp } from 'lucide-react';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
 import LoginForm from './components/LoginForm';
 import LanguageToggle from './components/LanguageToggle';
